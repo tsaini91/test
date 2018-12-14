@@ -176,4 +176,3 @@ function processExpiration(confSearchScriptName) {
 	} catch (e) {
 		logDebug("ERROR: " + e + "");
 	}
-}
