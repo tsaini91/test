@@ -10,3 +10,4 @@ if (exists(currentUserID,vDebugUsers)) {
 	showDebug = 3;
 	showMessage = true;
 
+}
