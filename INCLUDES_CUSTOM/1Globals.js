@@ -9,4 +9,4 @@ var vDebugUsers = ['EWYLAM','JSCHILLO','EVONTRAPP'];
 if (exists(currentUserID,vDebugUsers)) {
 	showDebug = 3;
 	showMessage = true;
-}
+
