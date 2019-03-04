@@ -43,6 +43,6 @@ function copyContactsByType(srcCapId, targetCapId, pContactType) {
             aa.people.createCapContactWithAttribute(sourcePeopleModel.getCapContactModel());
         }
     }
-
+}
 
 
