@@ -44,5 +44,5 @@ function copyContactsByType(srcCapId, targetCapId, pContactType) {
         }
     }
 
-}
+
 
