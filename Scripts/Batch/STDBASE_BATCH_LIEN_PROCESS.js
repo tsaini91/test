@@ -12,7 +12,7 @@
 - SET STATUSES: Open, Ready for Mailing, Completed
 - Set Saved Search: Renewal Mass Mailer - Open, Renewal Mass Mailer - Ready for Mailing, Renewal Mass Mailer - Completed
  */
-
+aa.print("git script update");
 aa.env.setValue("confScriptName","CONF_BATCH_LIEN_SEARCH");
 var confScriptName = aa.env.getValue("confScriptName");
 
