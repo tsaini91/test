@@ -3,7 +3,7 @@
 	Script test template
 
 */
-var myCapId = "PRJ-2017-00050";
+var myCapId = "22-CAP-00050";
 var wfTask="Refine";
 var wfStatus="Rebuild Group Sets";
 var inspId = 8894502;
