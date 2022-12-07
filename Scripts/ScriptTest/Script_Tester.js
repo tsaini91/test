@@ -58,7 +58,6 @@ catch(e) {
 Show the debug window
 ***********************************************/
 aa.env.setValue("ScriptReturnCode", "0");
-
 aa.env.setValue("ScriptReturnMessage", debug);
 
 
