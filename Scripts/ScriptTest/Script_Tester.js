@@ -1,6 +1,7 @@
 /*
 
 	Script test template
+	changed line
 
 */
 var myCapId = "22-CAP-00050";
