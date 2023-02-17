@@ -13,6 +13,7 @@
 - SET TYPE: RENEWAL
 - SET STATUSES: Open, Ready for Mailing, Completed
 - Set Saved Search: Renewal Mass Mailer - Open, Renewal Mass Mailer - Ready for Mailing, Renewal Mass Mailer - Completed
+test
  */
 
 //aa.env.setValue("confScriptName","CONF_LICENSING_LICENSE_EXPIRATION_SEARCH")
