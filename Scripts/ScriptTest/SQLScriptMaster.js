@@ -1,4 +1,4 @@
-/*------------------------------------------------------------------------------------------------------/
+/*------------ts------------------------------------------------------------------------------------------/
 | SVN $Id: CapSetDetailCapAddedToAccount.js 4781 2009-10-01 05:55:23Z roland.vonschoech $
 | Program : CapSetDetailCapAddedToAccountV1.6.js
 | Event   : The Sets Portlet's Execute Script button, which triggers the CapSetDetailUserExecuteAfter
