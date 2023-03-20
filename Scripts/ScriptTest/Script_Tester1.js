@@ -1,6 +1,6 @@
 /*
 
-	Script test template
+	Script test template - test
 
 */
 var myCapId = "PRJ-2017-00050";
