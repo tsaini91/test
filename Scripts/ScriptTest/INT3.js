@@ -1,1 +1,1 @@
-aa.print("test public repo new file updated");
+aa.print("test public repo");
