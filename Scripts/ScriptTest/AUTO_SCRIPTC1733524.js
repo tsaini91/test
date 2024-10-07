@@ -1,1 +1,1 @@
-aa.print(" This script is createdt for automated test case");
+aa.print(" This script is created for automated test case");
