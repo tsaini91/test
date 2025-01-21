@@ -9,3 +9,4 @@ function addACAUrlsVarToEmail(vEParams) {
 	//Save Record Direct URL
 	addParameter(vEParams,"$$acaRecordURL$$",acaSite + getACAUrl());
 }
+aa.print("syntax")
