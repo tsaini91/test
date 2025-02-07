@@ -1,7 +1,7 @@
 /*
 
 	Script test template
-	changed line test12345689
+	changed line test12345689 edited in git 2:33pm pst
 
 */
 var myCapId = "22-CAP-00050";
